@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+.social{
+	margin: 50px 0 0 0;
+}
+.contenido{
+	text-align: justify;
+}
+.info{
+	font-size: 12px;
+	color: #357EE0;
+}
+.user-coment{
+	font-size: 300%;
+	margin: 0 30%;
+}
+.txtarea{
+	width: 80%;
+	max-height: 100px;
+}
+article{
+	padding-bottom: 20px;
+}
+.espacio{
+	padding-top: 10px;
+}
+.comentarios{
+	padding-top: 10px;
+}
+@media (max-width: 767px) {
+	#logo{
+		margin: 0 auto;
+	}
+	#SocialBlock{
+		text-align: center;
+		margin: 0 auto;
+		padding: 10px 0;
+	}
+}
+
+@media (min-width: 768px) {
+	
+}
+
+@media (min-width: 992px) {
+	.img-nota img{
+		max-height: 250px;
+	}
+	
+}
+
+@media (min-width: 1200px) {
+	.img-nota img{
+		max-height: 250px;
+	}
+	
+}
